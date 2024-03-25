@@ -1,3 +1,5 @@
+Created a project in hands on way including installing and setting up Laravel 10 with PHP8 and utilities and installing MySQL instance on Docker. Learnt about Laravel features like Routing, Blade Templates, Blade Directives, Layouts & Template Inheritance, connecting to MySQL, Migrations, Factories, Seeders, CSRF protection, Validating data & Error handling.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
